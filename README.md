@@ -5,4 +5,4 @@
 Hallo, disini saya telah membuat sebuah **Personal Website** untuk memenuhi Tugas Technical Project Assignment 1 di Studi Independen Skilvul.<br/>
 Berikut preview tampilan Home <br/>
 ![home](personalWeb.png)<br/>
-Link Personal Web: (akan diupdate lagi)
+Link Personal Web: https://personalwebsitejuliaarisanda.netlify.app/
