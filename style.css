@@ -75,7 +75,7 @@ span{
     line-height: 22px;
 }
 .detail a{
-    background: pink;
+    background: palevioletred;
     padding: 10px 18px;
     text-decoration: none;
     font-weight: bold;
@@ -147,7 +147,7 @@ span{
 	margin-bottom: 45px;
 }
 button{
-	background-color:pink;
+	background-color:palevioletred;
 	color: white;
 	text-decoration: none;
 	border: 2px solid transparent;
@@ -156,13 +156,16 @@ button{
 	border-radius: 30px;
 	transition: .4s; 
 }
+button a{
+	color: white;
+}
 button:hover{
 	background-color: transparent;
 	border: 2px solid #f9004d;
 	cursor: pointer;
 }
 
-.service{
+.portfolio{
 	background: #eff4fd;
 	width: 100%;
 	padding: 100px 0px;
